@@ -1,4 +1,21 @@
 {
+  "name": "cypress-learning",
+  "description": "Repository to learn about cypress testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xBlaxk/cypress-learning.git"
+  },
+  "author": "xBlaxk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xBlaxk/cypress-learning/issues"
+  },
+  "homepage": "https://github.com/xBlaxk/cypress-learning#readme",
   "dependencies": {
     "cypress": "^10.6.0",
     "eslint-plugin-cypress": "^2.12.1"
